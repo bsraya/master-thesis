@@ -89,25 +89,25 @@ _Why Schedulearn?_
 
 ### Containerization
 
-![h:500](https://www.docker.com/wp-content/uploads/2021/11/container-what-is-container.png)
+![h:500](./containers.png)
 
 ---
 
 ### Distributed Deep Learning
 
-![h:500 w:1000](https://xiandong79.github.io/downloads/ddl1.png)
+![h:500 w:1000](./ddl1.png)
 
 ---
 
 ### Web Services
 
-![w:1000](https://miro.medium.com/max/1189/0*ZL3Xc178YqldwFcb.png)
+![w:1000](./web.png)
 
 ---
 
 ### Persistent Storage
 
-![h:500](https://www.holistics.io/blog/content/images/2018/08/dbdiagram.io---diagram-only.png)
+![h:500](./schemas.png.png)
 
 ---
 
